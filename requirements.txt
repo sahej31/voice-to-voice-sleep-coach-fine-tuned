@@ -1,0 +1,9 @@
+
+sounddevice
+scipy
+gtts
+playsound==1.2.2
+transformers
+torch
+accelerate
+git+https://github.com/openai/whisper.git
